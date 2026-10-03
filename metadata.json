@@ -1,0 +1,6 @@
+{
+  "name": "Data Normalizer",
+  "description": "HINDSIGHT360: Enterprise record linkage pipeline uniting customer databases and state property sources through normalization, RapidFuzz matching, review queue triage, and high-confidence resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
